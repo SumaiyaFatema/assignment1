@@ -1,7 +1,6 @@
+
+/* Header section */
 .header-image{
-    
-   
-    
     background-image: url('../resources/Banner.png');
     width: 1320px;
     height: 600px;
@@ -10,8 +9,7 @@
     display: block;
     margin: auto;
     
-    
-    }
+}
 
 .title{
     color: white;
@@ -27,3 +25,39 @@
     margin-top: 2px;
     
 }
+
+/* Main section start*/
+
+/* firsty offer start */
+.offer{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+.description{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0px;
+
+}
+
+.categories{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0px;
+   }
+
+.offer-image{
+
+    width: 802.9px;
+    height: 500px;
+    background-position: center;
+    display: block;
+    margin: auto;
+}
+/* offer end */
