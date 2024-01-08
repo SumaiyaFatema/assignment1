@@ -8,6 +8,7 @@
     background-position: center;
     display: block;
     margin: auto;
+    margin-top: 50px;
     
 }
 
@@ -106,28 +107,6 @@
 
 }
 
-/* .overall-info{
-    display: flex;
-} */
-
-
-/* .image-2024{
-    
-    width: 319.83px;
-    height: 464.662px;
-    margin-left: 862px;
-    margin-top: 0px;
-    
-} */
-
-/* nav{
-    width: 319.83px;
-    height: 464.662px;
-    margin-left: 862px;
-    padding-top: 0;
-}
-    */
-
 .place-description{
 
     color: #070211;
@@ -145,36 +124,36 @@
 }
 
 .button{
-    
-   
-    margin-right: 576px;
-    border-radius: 8px;
     background: #F00;
-    color: #FFF;
-    margin-left: 600px;
-    padding: 16px 32px;
-    display: inline-flex;
-    gap: 10px;
-    border: none;
-    /* justify-content: center; */
+    border-radius: 8px;
+    margin-left: 450px;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    
     
 }
 
+
 .background{
-    background-color: rgb(242, 230, 232);
-    width: 1320px;
-    height: 482px;
-    text-align: center;
-    background-position: center;
-    display: block;
-    margin: auto;
-    margin: 100px 290px;
+   
+    background: rgb(242, 230, 232);
+    padding: 130px;
     border-radius: 10px;
+    margin: 130px 0;
+    max-width: 1050px;
+    margin: 70px auto;
+
 }
 
 /* offer coming soon */
 .coming-soon{
     display: flex;
+    margin: 100px 100px;
+    max-width: 1400px fixed;
+   
     /* margin: 100px 200px; */
 
 }
@@ -186,7 +165,7 @@
     color: #F00;
    font-style: normal;
    font-weight: 500;
-   margin-left: 150px;
+   /* margin-left: 150px; */
    margin-bottom: 0;
 }
 
@@ -196,13 +175,13 @@
     font-weight: 900;
     line-height: normal;
     text-transform: capitalize;
-    margin-left: 140px;
+    /* margin-left: 140px; */
     margin-top: 5px;
     
 }
 
 .description-info{
-    margin-left: 150px;
+    /* margin-left: 150px; */
     color: black;
     font-family: Inter;
     font-size: 20px;
@@ -213,13 +192,10 @@
  
 }
 
-.image-color{
+.imagecolor{
     width: 364.844px;
     height: 364.844px;
-    margin-left: 150px;
-
-
-
+    /* margin-left: 150px; */
 }
     
     /* border-radius: 364.844px; */
@@ -227,5 +203,4 @@
 .container{
     /* margin-left: 140px; */
     font-size: 20px;
-
 }
