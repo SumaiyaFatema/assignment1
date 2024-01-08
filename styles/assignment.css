@@ -136,6 +136,7 @@
     font-weight: 500px;
     padding-top: 50px;
     
+    
 }
 .color{
     color: #F00;
@@ -169,6 +170,48 @@
     margin: auto;
     margin: 100px;
     border-radius: 10px;
-
 }
 
+/* offer coming soon */
+.coming-soon{
+    display: flex;
+    /* text-align: center;
+    background-position: center; */
+    
+}
+.title-color{
+    color: #F00;
+   font-style: normal;
+   font-weight: 500;
+   margin-left: 150px;
+   margin-bottom: 0;
+}
+
+.heading-design{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 146px;
+    margin-top: 5px;
+    
+}
+
+.description-info{
+    margin-left: 15px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin-top: 22px;
+ 
+}
+
+.radius-design{
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+}
