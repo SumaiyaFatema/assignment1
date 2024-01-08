@@ -251,7 +251,7 @@
     transition: 400ms;
 }
 
-many-picture:hover{
+.many-picture:hover{
     filter: grayscale(1);
     transform: scale(1.03);
 }
