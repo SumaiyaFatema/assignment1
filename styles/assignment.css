@@ -71,6 +71,7 @@
     background-position: center;
     display: block;
     margin: auto;
+    
 }
 
 
@@ -98,6 +99,9 @@
 
 .button-design{
     margin-left: 126px;
+    background-color: #070211;
+    color: white;
+    border: none;
 
 
 }
@@ -106,8 +110,8 @@
     display: flex;
 } */
 
-/* 
-.image-2024{
+
+/* .image-2024{
     
     width: 319.83px;
     height: 464.662px;
@@ -123,4 +127,48 @@
     padding-top: 0;
 }
     */
+
+.place-description{
+
+    color: #070211;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500px;
+    padding-top: 50px;
+    
+}
+.color{
+    color: #F00;
+    
+    
+}
+
+.button{
+    
+   
+    margin-right: 576px;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    margin-left: 600px;
+    padding: 16px 32px;
+    display: inline-flex;
+    gap: 10px;
+    border: none;
+    /* justify-content: center; */
+    
+}
+
+.background{
+    background-color: rgb(242, 230, 232);
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+    background-position: center;
+    display: block;
+    margin: auto;
+    margin: 100px;
+    border-radius: 10px;
+
+}
 
