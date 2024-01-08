@@ -87,7 +87,7 @@
     padding-top: 126px;
 }
 
-.description-info{
+.description-container{
     color: rgba(255, 255, 255, 0.80);
     font-size: 18px;
     font-weight: 400;
@@ -168,14 +168,19 @@
     background-position: center;
     display: block;
     margin: auto;
-    margin: 100px;
+    margin: 100px 290px;
     border-radius: 10px;
 }
 
 /* offer coming soon */
 .coming-soon{
     display: flex;
-    
+    /* margin: 100px 200px; */
+
+}
+
+.info-container{
+    margin-left: 150px;
 }
 .title-color{
     color: #F00;
@@ -191,14 +196,14 @@
     font-weight: 900;
     line-height: normal;
     text-transform: capitalize;
-    margin-left: 146px;
+    margin-left: 140px;
     margin-top: 5px;
     
 }
 
 .description-info{
-    margin-left: 15px;
-    color: rgba(7, 2, 17, 0.60);
+    margin-left: 150px;
+    color: black;
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
@@ -208,8 +213,19 @@
  
 }
 
-.radius-design{
+.image-color{
     width: 364.844px;
     height: 364.844px;
-    border-radius: 364.844px;
+    margin-left: 150px;
+
+
+
+}
+    
+    /* border-radius: 364.844px; */
+
+.container{
+    /* margin-left: 140px; */
+    font-size: 20px;
+
 }
